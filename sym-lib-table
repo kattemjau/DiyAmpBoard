@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name amplifier-eagle-import)(type Legacy)(uri ${KIPRJMOD}/amplifier-eagle-import.lib)(options "")(descr ""))
+  (lib (name niggerprogram)(type Legacy)(uri C:/Users/kattemjau/Downloads/DiyAmpBoard/SOP65P810X120-33N.lbr)(options "")(descr ""))
+)

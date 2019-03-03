@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name amplifier)(type KiCad)(uri "$(KIPRJMOD)/amplifier.pretty")(options "")(descr ""))
+  (lib (name ownlib)(type Legacy)(uri C:/Users/kattemjau/Downloads/DiyAmpBoard/sdplifier.pretty)(options "")(descr "")(disabled))
+)

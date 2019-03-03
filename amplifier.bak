@@ -623,10 +623,10 @@ Connection ~ 4900 3600
 Wire Wire Line
 	4900 3600 4900 3700
 $Comp
-L amplifier-eagle-import:R0603 R111
+L amplifier-eagle-import:R0603 R?
 U 1 0 5C83C1DF
 P 4700 3600
-F 0 "R111" H 4550 3659 59  0000 L BNN
+F 0 "R?" H 4550 3659 59  0000 L BNN
 F 1 "100k" H 4550 3470 59  0000 L BNN
 F 2 "amplifier:R0603" H 4700 3600 50  0001 C CNN
 F 3 "" H 4700 3600 50  0001 C CNN
@@ -670,12 +670,4 @@ Text GLabel 4900 4000 3    50   Input ~ 0
 SYNC
 Wire Wire Line
 	4900 3800 4900 4000
-Text GLabel 4450 2200 0    50   Input ~ 0
-FAULT
-Text GLabel 4450 2100 0    50   Input ~ 0
-SD
-Wire Wire Line
-	4800 2100 4450 2100
-Wire Wire Line
-	4450 2200 4800 2200
 $EndSCHEMATC
